@@ -1,0 +1,4 @@
+{
+  "dl": "https://YOUR_ALEXANDRIE_HOST/api/v1/crates/{crate}/{version}/download",
+  "api": "https://YOUR_ALEXANDRIE_HOST"
+}
